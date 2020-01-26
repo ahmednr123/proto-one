@@ -1,0 +1,1 @@
+// JSON format required for the communication between server and client
